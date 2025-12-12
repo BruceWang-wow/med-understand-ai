@@ -1,0 +1,7 @@
+{
+  "name": "MedUnderstand AI (医懂)",
+  "description": "An empathetic AI medical interpreter designed to bridge the gap between complex medical symptoms/reports and user understanding. It provides clear explanations, risk assessments, and visual aids to reduce health anxiety.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
